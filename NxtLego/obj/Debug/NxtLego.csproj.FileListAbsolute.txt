@@ -1,0 +1,11 @@
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\bin\Debug\NxtLego.exe.config
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\bin\Debug\NxtLego.exe
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\bin\Debug\NxtLego.pdb
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\bin\Debug\NKH.MindSqualls.dll
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\bin\Debug\WinUsbWrapper.dll
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\obj\Debug\NxtLego.csprojResolveAssemblyReference.cache
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\obj\Debug\NxtLego.Form1.resources
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\obj\Debug\NxtLego.Properties.Resources.resources
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\obj\Debug\NxtLego.csproj.GenerateResource.Cache
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\obj\Debug\NxtLego.exe
+c:\users\demar\documents\visual studio 2012\Projects\NxtLego\NxtLego\obj\Debug\NxtLego.pdb
